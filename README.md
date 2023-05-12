@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ephim Shaposhnikov</h1>
 <h3 align="center"> Automation QA Engineer.</h3>
 
-<h3 align="left">Connect with me: @fromforeast</h3>
+<h3 align="left">Connect with me: <a href='https://t.me/fromforeast'>@fromforeast</a></h3>
 <p align="left">
 </p>
 
